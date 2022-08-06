@@ -14,5 +14,9 @@
     "backend"
   ],
   "author": "Imran Mahmud Ullash",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "movies-names": "^1.1.1",
+    "random-fruits-name": "^1.9.5"
+  }
 }
